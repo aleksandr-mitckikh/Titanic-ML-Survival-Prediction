@@ -22,7 +22,8 @@ The goal is to predict passenger survival using data analysis, feature engineeri
 ---
 
 ## Repository Structure
+```text
 ├── train.csv
 ├── test.csv
 ├── Titanic.ipynb
-└── readme.md 
+└── readme.md
